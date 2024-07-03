@@ -22,3 +22,4 @@ Route::prefix('client')->group(function () {
         require_once $file;
     }
 });
+
